@@ -1,0 +1,9 @@
+server:
+  port: 18690
+
+#cxf:
+#  path: /abc
+
+mybdbs:
+  ip: 10.212.18.151
+  port: 19904
